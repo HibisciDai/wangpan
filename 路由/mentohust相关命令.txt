@@ -1,0 +1,5 @@
+chmod a+x /etc/mentohust
+
+/etc/mentohust -u123456 -p123456 -eth0 -a1 -d2 -w
+
+chmod a+x /etc/mentohust.sh
